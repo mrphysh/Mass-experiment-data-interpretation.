@@ -27,3 +27,6 @@ It puts this number into a database with the UNIX time stamp.  So, it takes abou
 There are much fewer numbers from the anniversary clocks, but still, lots of them.  The rotating pendulums wee added much later.  The present platform has three swinging pendulums and three anniversary clocks, but it all started with only swinging pendulums.
 A given row in the source database has one time stamp and one value per row.
 The software for this project is identical for the Gravity Interpretation project.  This repository shows some data and it is interesting.
+
+https://youtu.be/PH7FHUDZ4PM
+
