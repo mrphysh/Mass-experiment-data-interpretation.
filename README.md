@@ -28,5 +28,7 @@ There are much fewer numbers from the anniversary clocks, but still, lots of the
 A given row in the source database has one time stamp and one value per row.
 The software for this project is identical for the Gravity Interpretation project.  This repository shows some data and it is interesting.
 
-https://youtu.be/PH7FHUDZ4PM
+
+https://youtu.be/5dWK-NFF1Iw
+![image](https://user-images.githubusercontent.com/36704732/148699845-701f7c93-abdc-4b69-ac54-bcd7facf3d7a.png)
 
